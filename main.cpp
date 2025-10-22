@@ -1,9 +1,14 @@
 #include <iostream>
+#include "SistemaUdeATunes.h"
 
-using namespace std;
+int main() {
+    std::cout << "=== Bienvenido a UdeATunes ===" << std::endl;
 
-int main()
-{
-    cout << "Hello World!" << endl;
+    SistemaUdeATunes sistema;
+    sistema.iniciar();
+
     return 0;
 }
+
+
+
