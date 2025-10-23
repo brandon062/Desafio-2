@@ -1,5 +1,5 @@
-#ifndef PUBLICIDAD_H
-#define PUBLICIDAD_H
+#ifndef MENSAJEPUBLICITARIO_H
+#define MENSAJEPUBLICITARIO_H
 
 class Publicidad {
 public:

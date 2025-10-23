@@ -1,5 +1,5 @@
 #include <iostream>
-#include "SistemaUdeATunes.h"
+#include "udeaTunes.h"
 
 int main() {
     std::cout << "=== Bienvenido a UdeATunes ===" << std::endl;
