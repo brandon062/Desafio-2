@@ -4,6 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+    listafavoritos.cpp \
     main.cpp \
     Usuario.cpp \
     Artista.cpp \
@@ -17,6 +18,8 @@ HEADERS += \
     Artista.h \
     Album.h \
     Cancion.h \
+    estructuras.h \
+    listafavoritos.h \
     mensajePublicitario.h \
     udeaTunes.h
 
