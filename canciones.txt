@@ -1,0 +1,10 @@
+123450101 Cancion1 180 /users/storage/artista1/audio/cancion1_128.ogg /users/storage/artista1/audio/cancion1_320.ogg
+123450102 Cancion2 210 /users/storage/artista1/audio/cancion2_128.ogg /users/storage/artista1/audio/cancion2_320.ogg
+234560201 Cancion3 195 /users/storage/artista2/audio/cancion3_128.ogg /users/storage/artista2/audio/cancion3_320.ogg
+234560202 Cancion4 225 /users/storage/artista2/audio/cancion4_128.ogg /users/storage/artista2/audio/cancion4_320.ogg
+345670301 Cancion5 200 /users/storage/artista3/audio/cancion5_128.ogg /users/storage/artista3/audio/cancion5_320.ogg
+345670302 Cancion6 240 /users/storage/artista3/audio/cancion6_128.ogg /users/storage/artista3/audio/cancion6_320.ogg
+456780401 Cancion7 175 /users/storage/artista4/audio/cancion7_128.ogg /users/storage/artista4/audio/cancion7_320.ogg
+456780402 Cancion8 190 /users/storage/artista4/audio/cancion8_128.ogg /users/storage/artista4/audio/cancion8_320.ogg
+567890501 Cancion9 220 /users/storage/artista5/audio/cancion9_128.ogg /users/storage/artista5/audio/cancion9_320.ogg
+567890502 Cancion10 205 /users/storage/artista5/audio/cancion10_128.ogg /users/storage/artista5/audio/cancion10_320.ogg

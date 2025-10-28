@@ -1,0 +1,5 @@
+01 Album1 2024-01-01 45 /users/storage/artista1/album1.png
+02 Album2 2024-02-01 38 /users/storage/artista2/album2.png
+03 Album3 2024-03-01 52 /users/storage/artista3/album3.png
+04 Album4 2024-04-01 41 /users/storage/artista4/album4.png
+05 Album5 2024-05-01 47 /users/storage/artista5/album5.png

@@ -1,0 +1,5 @@
+usuario1 premium Medellin Colombia 2024-01-15
+usuario2 estandar Bogota Colombia 2024-02-20
+usuario3 premium Cali Colombia 2024-03-10
+usuario4 estandar Barranquilla Colombia 2024-04-05
+usuario5 premium Cartagena Colombia 2024-05-12
